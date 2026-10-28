@@ -1,4 +1,4 @@
-# 🤖 Day 1: The Building Blocks of AI (TryHackMe)
+# 🤖 Day 2: The Building Blocks of AI (TryHackMe)
 
 **Platform:** [TryHackMe](https://tryhackme.com/room/aimlsecuritythreats)  
 **Topic:** AI Fundamentals & Machine Learning Algorithms  
